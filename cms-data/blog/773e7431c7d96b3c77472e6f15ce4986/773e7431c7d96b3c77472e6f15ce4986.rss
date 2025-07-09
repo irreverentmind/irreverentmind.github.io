@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>My News Feed</title>
+<link>http://www.IrreverentMind.com/cms-data/blog/773e7431c7d96b3c77472e6f15ce4986/773e7431c7d96b3c77472e6f15ce4986.rss</link>
+<atom:link href="http://www.IrreverentMind.com/cms-data/blog/773e7431c7d96b3c77472e6f15ce4986/773e7431c7d96b3c77472e6f15ce4986.rss" rel="self" type="application/rss+xml"></atom:link>
+<description><![CDATA[My news feed with important updates]]></description>
+<item>
+<title>lets try number two, entered in preview</title>
+<link>lets-try-number-two-entered-in-preview</link>
+<description><![CDATA[<p>blah blah entered in preview, this is body of</p>
+]]></description>
+<guid isPermaLink="false">lets-try-number-two-entered-in-preview</guid>
+<pubDate>Fri, 22 Jun 2018 23:00:33 +0000</pubDate>
+</item>
+<item>
+<title>this is first try, entered in preview</title>
+<link>this-is-first-try-entered-in-preview</link>
+<description><![CDATA[<p>this is on preview bah blah</p>
+]]></description>
+<guid isPermaLink="false">this-is-first-try-entered-in-preview</guid>
+<pubDate>Fri, 22 Jun 2018 21:41:35 +0000</pubDate>
+</item>
+</channel>
+</rss>

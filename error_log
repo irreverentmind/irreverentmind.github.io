@@ -1,0 +1,66 @@
+[09-Jan-2020 18:28:16 GMT] PHP Warning:  require_once(wp-load.php): failed to open stream: No such file or directory in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 21734
+[09-Jan-2020 18:28:16 GMT] PHP Fatal error:  require_once(): Failed opening required 'wp-load.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 21734
+[09-Jan-2020 18:29:25 GMT] PHP Warning:  fileowner(): stat failed for wp-admin in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 27880
+[09-Jan-2020 18:29:25 GMT] PHP Warning:  fileowner(): stat failed for /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 27880
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(http://irreverentmind.com): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(https://irreverentmind.com): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(http://irreverentmind.com): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(https://irreverentmind.com): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(http://irreverentmind.com/?nocache=109): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28742
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Peer certificate CN=`*.sucuri.net' did not match expected CN=`irreverentmind.com' in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(): Failed to enable crypto in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[09-Jan-2020 18:29:55 GMT] PHP Warning:  get_headers(https://irreverentmind.com/?nocache=109): failed to open stream: operation failed in /home/jooody01/public_html/sucuri-cleanup.php(61) : eval()'d code(111) : eval()'d code(36132) : eval()'d code on line 28743
+[20-Oct-2021 01:07:43 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[21-Oct-2021 00:44:36 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[22-Oct-2021 00:44:46 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[23-Oct-2021 00:44:36 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[24-Oct-2021 00:43:43 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[25-Oct-2021 00:44:07 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[26-Oct-2021 00:44:18 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[27-Oct-2021 00:44:41 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[28-Oct-2021 00:44:19 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[29-Oct-2021 00:43:45 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[30-Oct-2021 00:44:02 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[31-Oct-2021 00:44:06 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[01-Nov-2021 00:44:15 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[02-Nov-2021 00:43:21 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[03-Nov-2021 00:42:46 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[04-Nov-2021 00:43:21 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[05-Nov-2021 00:45:16 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[06-Nov-2021 00:44:07 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[07-Nov-2021 00:44:38 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[08-Nov-2021 00:44:17 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[10-Nov-2021 00:43:25 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[11-Nov-2021 00:43:05 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[12-Nov-2021 00:43:09 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[13-Nov-2021 00:42:54 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[14-Nov-2021 00:43:16 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[15-Nov-2021 00:45:14 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[16-Nov-2021 00:43:31 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[17-Nov-2021 00:42:25 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[18-Nov-2021 00:45:01 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[19-Nov-2021 00:44:07 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[06-Apr-2023 08:52:27 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/jooody01/public_html/mail_test.php:2957
+Stack trace:
+#0 /home/jooody01/public_html/mail_test.php(768): SMTP->Data()
+#1 /home/jooody01/public_html/mail_test.php(588): PHPMailer->SmtpSend()
+#2 /home/jooody01/public_html/mail_test.php(3481): PHPMailer->Send()
+#3 {main}
+  thrown in /home/jooody01/public_html/mail_test.php on line 2957
+[06-Apr-2023 08:52:56 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/jooody01/public_html/mail_test.php:2957
+Stack trace:
+#0 /home/jooody01/public_html/mail_test.php(768): SMTP->Data()
+#1 /home/jooody01/public_html/mail_test.php(588): PHPMailer->SmtpSend()
+#2 /home/jooody01/public_html/mail_test.php(3481): PHPMailer->Send()
+#3 {main}
+  thrown in /home/jooody01/public_html/mail_test.php on line 2957

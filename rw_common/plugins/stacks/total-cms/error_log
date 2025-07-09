@@ -1,0 +1,178 @@
+[29-Jun-2018 23:32:52 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/166e36ec-945e-4c20-add6-0af28ed3b38a.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(137): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(291): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[30-Jun-2018 20:26:24 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/7b752f7d-433f-4f86-ae4b-ac449faa22d7.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(137): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(291): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[30-Jun-2018 20:29:23 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/d7.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(137): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(291): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalCMS\Component\Component->save_conte in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[30-Jun-2018 20:53:25 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/1a413330-f0d3-4152-9ef0-e1f91e800bcf.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(137): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(291): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[07-Feb-2019 19:03:30 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/unknown.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(292): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalCMS\Component\Component->save_ in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[12-Aug-2019 13:23:05 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/01c9f871-171b-4a8e-95b7-d6f7f62bf0f9.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(292): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[25-Feb-2020 01:31:24 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/308ebf12-54d8-4051-ab47-844de5f83615.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[28-Apr-2020 16:56:17 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/6ba0fa9c-0d26-44ae-b439-a5c5090e9c63.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[31-Jul-2020 23:05:27 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/d53e1d69-4b0d-4a70-a89d-6ea6bc1f367e.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[26-Jan-2021 15:19:18 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/4d1ec81c-813f-4fb2-8e25-45f0d25317e1.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[14-Feb-2021 16:46:33 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/a1b31bf1-579f-46db-b94f-e79082428086.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[11-Mar-2021 16:53:07 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/b5d837f3-85ca-4859-8463-fd712ee79fcf.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[01-Nov-2021 12:55:21 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/6e96482f-6fa4-6327-cd9b-6e154a4f7cca.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[20-Apr-2022 20:04:48 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/1b7e551c-1472-536d-37fa-1ce9c087e42a.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php:96
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(152): Imagine\Gd\Imagine->open('/home/jooody01/...')
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(317): TotalCMS\Component\Image->collect_meta_data('/home/jooody01/...')
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(141): TotalCMS\Component\Image->save_content_to_cms(Array, Array)
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(300): TotalCMS\Component\Gallery->save_content_to_cms(Array, Array)
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(246): TotalC in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/lib/Imagine/Gd/Imagine.php on line 96
+[26-Jul-2022 22:31:55 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "gallery" on null in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php:1213
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(304): TotalCMS\Component\Blog->update_gallery()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Blog->save_content_to_cms()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(605): TotalCMS\Component\Component->save_content()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(163): blog_post()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php on line 1213
+[28-Sep-2022 13:59:40 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/life-liek-chess-dont-know-how-to-play.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/src/Gd/Imagine.php:95
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(157): Imagine\Gd\Imagine->open()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(321): TotalCMS\Component\Image->collect_meta_data()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(140): TotalCMS\Component\Image->save_content_to_cms()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Gallery->save_content_to_cms()
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(303): TotalCMS\Component\Component->save_content()
+#5 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Blog->save_content_to_cms()
+#6 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(605): TotalCMS\Component\Component->save_content()
+#7 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(163): blog_post()
+#8 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/src/Gd/Imagine.php on line 95
+[28-Sep-2022 14:05:38 UTC] PHP Fatal error:  Uncaught Imagine\Exception\RuntimeException: Unable to open image /home/jooody01/public_html/cms-data/tmp/gone-dead.jpg in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/src/Gd/Imagine.php:95
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(157): Imagine\Gd\Imagine->open()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Image.php(321): TotalCMS\Component\Image->collect_meta_data()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(140): TotalCMS\Component\Image->save_content_to_cms()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Gallery->save_content_to_cms()
+#4 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(303): TotalCMS\Component\Component->save_content()
+#5 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Blog->save_content_to_cms()
+#6 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(605): TotalCMS\Component\Component->save_content()
+#7 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(163): blog_post()
+#8 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/vendor/imagine/imagine/src/Gd/Imagine.php on line 95
+[07-Feb-2023 21:47:24 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "gallery" on null in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php:1213
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(304): TotalCMS\Component\Blog->update_gallery()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Blog->save_content_to_cms()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(605): TotalCMS\Component\Component->save_content()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(163): blog_post()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php on line 1213
+[07-Feb-2023 21:48:41 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php:72
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(72): count()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(349): TotalCMS\Component\Gallery->delete()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(633): TotalCMS\Component\Blog->deleteGalleryImage()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(339): blog_delete()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php on line 72
+[07-Feb-2023 21:48:47 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php:72
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(72): count()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(349): TotalCMS\Component\Gallery->delete()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(633): TotalCMS\Component\Blog->deleteGalleryImage()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(339): blog_delete()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php on line 72
+[14-Jul-2023 18:45:17 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php:72
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(72): count()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(349): TotalCMS\Component\Gallery->delete()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(633): TotalCMS\Component\Blog->deleteGalleryImage()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(339): blog_delete()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php on line 72
+[14-Jul-2023 18:45:22 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php:72
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php(72): count()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(349): TotalCMS\Component\Gallery->delete()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(633): TotalCMS\Component\Blog->deleteGalleryImage()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(339): blog_delete()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Gallery.php on line 72
+[14-Jul-2023 18:55:06 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "gallery" on null in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php:1216
+Stack trace:
+#0 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php(304): TotalCMS\Component\Blog->update_gallery()
+#1 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Component.php(303): TotalCMS\Component\Blog->save_content_to_cms()
+#2 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(605): TotalCMS\Component\Component->save_content()
+#3 /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/totalapi.php(163): blog_post()
+#4 {main}
+  thrown in /home/jooody01/public_html/rw_common/plugins/stacks/total-cms/TotalCMS/Component/Blog.php on line 1216
