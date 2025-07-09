@@ -1,1 +1,0 @@
-<?php const TOTALKEY = "773e7431c7d96b3c77472e6f15ce4986";
